@@ -1,6 +1,6 @@
 # Hi, I'm Daris Idirene (MadebyDaris)
 
-**19 y/o | French-Algerian | Trilingual Student in Paris**
+**19 y/o | Algerian | Trilingual Student in Paris**
 
 ---
 <!-- ====== Tech / Tools ====== -->
