@@ -9,11 +9,6 @@
   <a href="https://x.com/ByDaris"><img src="https://img.shields.io/twitter/follow/ByDaris?style=for-the-badge&color=black&logo=x" alt="X" /></a>
 </div>
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MadebyDaris&theme=transparent&hide_border=true)](https://github.com/MadebyDaris) [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadebyDaris&theme=transparent&hide_border=true)](https://github.com/MadebyDaris)
----
-
 ## Technical Stack & Architectures
 
 **Languages & Systems:**
