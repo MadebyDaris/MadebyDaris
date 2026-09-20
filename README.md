@@ -24,7 +24,7 @@ I'm an Electrical Engineering student (CPGE MPSI/PSI background) transitioning t
 I got here through device physics simulating quantum transport and memristive crossbars taught me *why* a piece of hardware behaves the way it does before I started asking how to make it faster. That's the thread running through everything below: understand the physical or mathematical structure of a problem, then design the smallest, most efficient piece of hardware that solves it.
 
 - Designing and verifying **RISC-V coprocessors** (RoCC / CV-X-IF) for domain-specific acceleration.
-- Building **Nexus-V**, a Julia-to-RTL hardware acceleration framework for RISC-V.
+- Building **HWExplore**, a Julia-to-RTL hardware acceleration framework for RISC-V.
 - Nanofabrication Engineering Intern at **Alice & Bob**, working hands-on with the cleanroom processes that put silicon designs into the physical world, and EDA tools.
 - Preparing for advanced coursework in Computer Architecture and microelectronics.
 ## Research Interests
@@ -35,7 +35,7 @@ I got here through device physics simulating quantum transport and memristive cr
 - **Emerging Device Physics** quantum transport, memristive switching, and hardware for post-quantum cryptography.
 
 ## Flagship Projects
-### [Nexus-V](https://github.com/MadebyDaris/NexusV) —A Hardware Acceleration Framework for RISC-V
+### [HWExplore](https://github.com/MadebyDaris/HWExplore) —A Hardware Acceleration Framework for RISC-V
 `Julia` `SystemVerilog` `RISC-V` `CV-X-IF` `Verilator`
 
 An open-source framework that turns a computation described in Julia into a library of hand-tuned IP blocks which are tuned into a pipelined, **CV-X-IF-compliant** coprocessor that plugs into the **X-HEEP** RISC-V microcontroller. The goal is to make writing a custom RISC-V accelerator look less like hand-scheduling pipeline stages from scratch and more like describing the math.
